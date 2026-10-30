@@ -85,4 +85,4 @@ También se puede ejecutar desde IntelliJ IDEA con clic derecho sobre cada clase
 ## Tecnologías
 
 - Java
-- IntelliJ IDEA
+- Eclipse
